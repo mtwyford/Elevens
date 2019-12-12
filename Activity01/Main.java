@@ -1,7 +1,8 @@
 /**
  * This is a class that tests the Card class.
+ * CardTester.java renamed to play in Repl - 
  */
-public class CardTester {
+public class Main {
 
 	/**
 	 * The main method in this class checks the Card operations for consistency.
